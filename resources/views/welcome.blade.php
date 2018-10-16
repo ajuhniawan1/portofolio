@@ -75,7 +75,7 @@
                         <i class="fa fa-user" aria-hidden="true">   Rahmad Al Habib Khasary</i><br>
                         <i class="fa fa-map-marker" aria-hidden="true"> Kp.Padurenan RT06/13 Kel.Pabuaran
                             Kec.Cibinong Kab.Bogor Jawa Barat</i><br>
-                        <i class="fa fa-phone" aria-hidden="true"> 0857-7693-2047</i><br>
+                        <i class="fa fa-phone" aria-hidden="true"> 082258642603</i><br>
                         <i class="fa fa-envelope" aria-hidden="true"> yusufarifin89@gmail.com</i><br>
                         <i class="fa fa-male" aria-hidden="true"> Laki-laki</i><br>
                     </p>
@@ -88,33 +88,28 @@
     <div id="experience" class="background-alt">
         <h2 class="heading">Experience</h2>
         <div id="experience-timeline">
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
+            <div data-date="Agustus 2014 – November 2014">
+                <h3>AJB BUMIPUTERA 1912</h3>
+                <h4>Staff IT</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
-                    laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur
-                    libero. Morbi dapibus porta quam laoreet placerat.
+                    Praktik Kerja Industri di AJB BUMIPUTERA 1912
+					Kantor Cabang Cibinong
                 </p>
             </div>
 
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
+            <div data-date="Juni 2016 – Agustus 2017">
+                <h3>Keboen Coding</h3>
+                <h4>Programmer</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
-                    laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur
-                    libero. Morbi dapibus porta quam laoreet placerat.
+                    
                 </p>
             </div>
 
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
+            <div data-date="Agustus 2017 – Agustus 2018">
+                <h3>PT Azimuth Solusi Indonesia</h3>
+                <h4>Programmer</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
-                    laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur
-                    libero. Morbi dapibus porta quam laoreet placerat.
+                    Sebuah Perusahaan di bidang teknologi v-sat auto pointing.
                 </p>
             </div>
         </div>
@@ -124,32 +119,36 @@
     <div id="education">
         <h2 class="heading">Education</h2>
         <div class="education-block">
-            <h3>University of Ottawa</h3>
-            <span class="education-date">Sept 2016 - Sept 2017</span>
-            <h4>Bachelor of Science in Computer Science</h4>
+            <h3>SDN PADURENAN JAYA</h3>
+            <span class="education-date">2004 - 2010</span>
+            <h4></h4>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
-                laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur
-                libero. Morbi dapibus porta quam laoreet placerat.
+                
             </p>
         </div>
         <!-- End .education-block -->
 
         <div class="education-block">
-            <h3>University of Ottawa</h3>
-            <span class="education-date">Sept 2016 - Sept 2017</span>
-            <h4>Bachelor of Science in Computer Science</h4>
-            <ul>
-                <li>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </li>
-                <li>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </li>
-                <li>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </li>
-            </ul>
+            <h3>SMPN 4 CIBINONG</h3>
+            <span class="education-date">2010 - 2013</span>
+            <h4></h4>
+
+        </div>
+        <div class="education-block">
+            <h3>SMKN 1 DEPOK</h3>
+            <span class="education-date">2013 - 2016</span>
+            <h4>Rekayasa Perangkat Lunak</h4>
+            <p>
+                
+            </p>
+        </div>
+        <div class="education-block">
+            <h3>Universitas Indprasta PGRI</h3>
+            <span class="education-date">2016 - Now</span>
+            <h4>Informatika</h4>
+            <p>
+                
+            </p>
         </div>
         <!-- End .education-block -->
     </div>
@@ -161,11 +160,11 @@
             <div class="row">
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="svg/project.jpg" />
+                        <img src="svg/lemhannas.png" />
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Project Name Here</h3>
+                        <h3>Klinik Lemhannas</h3>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
                             volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus.
@@ -179,11 +178,11 @@
 
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="svg/project.jpg" />
+                        <img src="svg/ruanmart.png" />
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Project Name Here</h3>
+                        <h3>Ruanmart</h3>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
                             volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus.
@@ -194,6 +193,79 @@
                     <!-- End .project-info -->
                 </div>
                 <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="svg/fiducia.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Fiducia</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
+                            volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus.
+                            Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="svg/bni.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>BNI Misterycall</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
+                            volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus.
+                            Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="svg/yamaha.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Yamaha Parts</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
+                            volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus.
+                            Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="svg/smsm.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>SMSM</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
+                            volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus.
+                            Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
             </div>
         </div>
     </div>
@@ -202,32 +274,15 @@
     <div id="skills">
         <h2 class="heading">Skills</h2>
         <ul>
+            <li>PHP</li>
             <li>JavaScript</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
             <li>Java</li>
-            <li>C</li>
             <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
+            <li>HTML</li>
+            <li>Laravel</li>
+            <li>CI</li>
+            <li>Mysql</li>
+            <li>MonggoDB</li>
         </ul>
     </div>
     <!-- End #skills -->
@@ -235,7 +290,7 @@
     <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
-            <form method="POST" action="https://formspree.io/email@email.com">
+            <form method="POST" action="/" >
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
                 <input type="email" name="_replyto" placeholder="Your email" required>
                 <textarea name="message" placeholder="Your message" required></textarea>
@@ -251,7 +306,7 @@
             <div class="row">
                 <div class="col-sm-5 copyright">
                     <p>
-                        Copyright &copy; 2017 YOUR NAME
+                        Copyright &copy; 2018 Rahmad Al Habib Khasary
                     </p>
                 </div>
                 <div class="col-sm-2 top">
@@ -262,23 +317,26 @@
                 <div class="col-sm-5 social">
                     <ul>
                         <li>
-                            <a href="https://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                            <a href="https://github.com/abewartech" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="https://stackoverflow.com/" target="_blank"><i class="fa fa-stack-overflow"
+                            <a href="https://stackoverflow.com/users/9701754/abe" target="_blank"><i class="fa fa-stack-overflow"
                                     aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="https://linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            <a href="https://www.linkedin.com/in/rahmad-al-habib-4a7391125/de" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/habib.alumnieparjay" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="https://twitter.com/habibkhasary" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="https://plus.google.com/" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            <a href="https://plus.google.com/111323943604773157293" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://gitlab.com/abe_wartech" target="_blank"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -287,7 +345,7 @@
     </footer>
     <!-- End footer -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
     <script src="js/scripts.min.js"></script>
 </body>
 
